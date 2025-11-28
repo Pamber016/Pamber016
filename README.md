@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amber Villarreal Campos</h1>
-<h3 align="center">Bachelor's student in Software Engineering at Univerity of Costa Rica</h3>
+<h3 align="center">Bachelor's student in Software Engineering at University of Costa Rica</h3>
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 🔭 I enjoy learning about **Human-Computer Interaction (HCI), AI, Cognitive-Science**
+- 🔭 I enjoy learning about **Human-Computer Interaction (HCI), AI & Cognitive-Science**
 
 - 👩‍💻 I'm currently working on a personal Markdown/Asciidoctor application!
 
